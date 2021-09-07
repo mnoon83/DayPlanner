@@ -31,7 +31,7 @@ for (let i=8; i<=17; i++) {
   }
 }
   let planCounter="plan"+i
-  document.getElementById(planCounter).textContent=workday[]
+  document.getElementById(planCounter).textContent=workday
 let schedule = {
   'plan8': '',
   'plan9': '',
